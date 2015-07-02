@@ -1,9 +1,9 @@
-<?
+<?php
 
 $titel = "Ann-Sofie Jarnheimer - Kurser";
 
 ?>
-<? include "top.php"; ?>
+<?php include "top.php"; ?>
 
     <div id="contentMargin"><img src="img/gfx/kurs.jpg" alt="Ann-Sofie Jarnheimer" width="450" height="300"
                                  class="portrait">
@@ -43,4 +43,4 @@ $titel = "Ann-Sofie Jarnheimer - Kurser";
   
  
 
-<? include "down.php"; ?>
+<?php include "down.php"; ?>
