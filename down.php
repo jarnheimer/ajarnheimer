@@ -19,7 +19,7 @@
 
           <div class="columnFooter">
             <div class="head2">E-post</div>
-            <div class="text"><a href="mailto:ann-sofie@jarnheimer.se">ann-sofie@jarnheimer.se</a></div>
+            <div class="text"><a href="mailto:a.jarnheimer@gmail.com">a.jarnheimer@gmail.com</a></div>
           </div>
           <br class="clear">
       </div>
