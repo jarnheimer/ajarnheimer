@@ -15,7 +15,7 @@
 
 
     <div id="top">
-        <a href="./"><img src="img/logo/Ann-Sofie_Jarnheimer.gif" alt="Ann-Sofie Jarnheimer, Leg. Psykoterapu"
+        <a href="./"><img src="img/logo/Ann-Sofie_Jarnheimer.gif" alt="Ann-Sofie Jarnheimer, Leg. Psykoteraput"
                           width="322" height="89" id="logo"></a>
 
         <div id="containerMenu">
