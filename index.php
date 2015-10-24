@@ -17,8 +17,9 @@ $titel = "Ann-Sofie Jarnheimer - Leg. Sjukgymnast, Leg. Psykoterapeut";
                 Sedan &ouml;ver 20 &aring;r driver jag en privat praktik som &auml;r ansluten till F&ouml;rs&auml;kringskassan.
                 Jag f&ouml;rel&auml;ser och har konsultuppdrag &ouml;ver hela Sverige.<br>
                 <br>
-                <b>Aktuellt:</b> <a href="static/Stresshantering.pdf">Kurs i stresshantering på Kreta</a>
-            </div>
+                <b>Aktuellt</b><br>
+                <a href="static/Varva_ner-2016.pdf">Varva ner! En kurs i ledarskap och stresshantering</a> (maj 2016)<br>
+                <a href="static/Stresshantering-2016.pdf">Kurs i stresshantering på Kreta </a> (sep 2016)            </div>
         </div>
 
 <?php include "down.php"; ?>

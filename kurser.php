@@ -11,8 +11,10 @@ $titel = "Ann-Sofie Jarnheimer - Kurser";
         <div class="columnRight">
             <div class="head">Kurser</div>
             <div class="text">
-                <b>Aktuellt:</b> <a href="static/Stresshantering.pdf">Kurs i stresshantering på Kreta</a>
-                <br>
+                <b>Aktuellt</b><br>
+                <a href="static/Varva_ner-2016.pdf">Varva ner! En kurs i ledarskap och stresshantering</a> (maj 2016)<br>
+                <a href="static/Stresshantering-2016.pdf">Kurs i stresshantering på Kreta </a> (sep 2016)
+
 
                 <p>Varje termin anordnas kurser inom stresshantering genom min uppdragsgivare Kalmar Arbetsgivarring.
                     Kurserna l&ouml;per dagtid under en period p&aring; 12 veckor. De f&ouml;rsta sex veckorna tr&auml;ffas
@@ -20,7 +22,7 @@ $titel = "Ann-Sofie Jarnheimer - Kurser";
                     F&ouml;r exakt schema, programpunkter, utv&auml;rderingar och kostnad kontakta mig eller Ulla
                     Larsson p&aring; Arbetsgivarring, tel 0480-28115. </p>
 
-                <p><U></U>nder kursen undervisar jag/samtalar vi kring:<br>
+                <p>Under kursen undervisar jag/samtalar vi kring:<br>
                 <ul>
                     <li>Hur uppt&auml;cker vi signaler p&aring; stress?</li>
                     <li>Kunskaper kring stress</li>
