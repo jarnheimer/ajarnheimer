@@ -18,8 +18,8 @@ $titel = "Ann-Sofie Jarnheimer - Leg. Sjukgymnast, Leg. Psykoterapeut";
                 Jag f&ouml;rel&auml;ser och har konsultuppdrag &ouml;ver hela Sverige.<br>
                 <br>
                 <b>Aktuellt</b><br>
-                <a href="static/Varva_ner-2016.pdf">Varva ner! En kurs i ledarskap och stresshantering</a> (maj 2016)<br>
-                <a href="static/Stresshantering-2016.pdf">Kurs i stresshantering på Kreta </a> (sep 2016)            </div>
+                <a href="http://www.lendasoasen.se/kurser/varva-ner-om-ledarskap-och-stresshantering/">Varva ner! En kurs i ledarskap och stresshantering</a> (maj 2017)
+            </div>
         </div>
 
 <?php include "down.php"; ?>

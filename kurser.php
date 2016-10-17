@@ -12,8 +12,7 @@ $titel = "Ann-Sofie Jarnheimer - Kurser";
             <div class="head">Kurser</div>
             <div class="text">
                 <b>Aktuellt</b><br>
-                <a href="static/Varva_ner-2016.pdf">Varva ner! En kurs i ledarskap och stresshantering</a> (maj 2016)<br>
-                <a href="static/Stresshantering-2016.pdf">Kurs i stresshantering på Kreta </a> (sep 2016)
+                <a href="http://www.lendasoasen.se/kurser/varva-ner-om-ledarskap-och-stresshantering/">Varva ner! En kurs i ledarskap och stresshantering</a> (maj 2017)
 
 
                 <p>Varje termin anordnas kurser inom stresshantering genom min uppdragsgivare Kalmar Arbetsgivarring.
