@@ -14,11 +14,11 @@ $titel = "Ann-Sofie Jarnheimer - Leg. Sjukgymnast, Leg. Psykoterapeut";
                 behandla dina symtom fr&aring;n b&aring;de ett psykiskt och ett kroppsligt perspektiv. Mina kunskaper
                 inom b&aring;da omr&aring;dena ger en uppskattad f&ouml;rst&aring;else f&ouml;r helheten och mycket goda
                 behandlingsresultat och utv&auml;rderingar.<br>
-                Sedan &ouml;ver 20 &aring;r driver jag en privat praktik som &auml;r ansluten till F&ouml;rs&auml;kringskassan.
+                Sedan &ouml;ver 25 &aring;r driver jag en privat praktik som &auml;r kopplad till högkostnadsskydd.
                 Jag f&ouml;rel&auml;ser och har konsultuppdrag &ouml;ver hela Sverige.<br>
                 <br>
                 <b>Aktuellt</b><br>
-                <a href="http://www.lendasoasen.se/kurser/varva-ner-om-ledarskap-och-stresshantering/">Varva ner! En kurs i ledarskap och stresshantering</a> (maj 2017)
+                Stresshantering på Kreta (sep 2018)
             </div>
         </div>
 
