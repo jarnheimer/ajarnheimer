@@ -9,7 +9,7 @@ $titel = "Ann-Sofie Jarnheimer - Kontakt";
                                  height="303" class="portrait">
 
         <div class="columnRight">
-            <form action="kontakt.php" method="post">
+
                 <div class="head">Kontakt</div>
                 <div class="text">
                     <p>Ann-Sofie Jarnheimer<br>
@@ -23,24 +23,7 @@ $titel = "Ann-Sofie Jarnheimer - Kontakt";
                         <br>
                     </p>
                 </div>
-            </form>
-            <!--
-                <form action="kontakt.php" method="post">
-                  <div class="head">Kontaktforuml&auml;r</div><div class="text">Namn:
-                    <input name="name" type="text" class="input width100p" id="name">
 
-                  E-post:
-                    <input name="email" type="text" class="input width100p" id="email">
-                    Telefonnummer:
-                  <input name="number" type="text" class="input width100p" id="number">
-                    Meddelande:
-                  <textarea name="message" rows="5" class="input width100p" id="message"></textarea>
-                  <br>
-                  <input name="button" type="submit" class="button" id="button" value="Skicka">
-
-                  <br>
-
-                  </div></form>-->
         </div>
   
 

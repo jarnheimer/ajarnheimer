@@ -7,9 +7,7 @@
     <link href="css/screen.css" rel="stylesheet" type="text/css">
 </head>
 
-<body <? if ($_GET['message'] == 'sent') {
-    echo 'onLoad="alert(\'Meddelandet &auml;r skickat\')"';
-} ?>>
+<body>
 
 <div class="containerSite">
 
