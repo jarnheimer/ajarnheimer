@@ -10,12 +10,21 @@ $titel = "Ann-Sofie Jarnheimer - Kompetens";
 
         <div class="columnRight">
             <div class="head">Kompetens</div>
-            <div class="text">Leg sjukgymnast 1986 <br>
-                Leg psykoterapeut 2001<br>
-                Psykodynamisk inriktning steg 1 &amp; 2 <br>
-                KBT kognitiv beteendeterapi steg 1 <br>
-                Grundl&auml;ggande utbildning i kroppsorienterad psykoterapi<br>
-                Depression och korttidsterapi 20 p<br>
+            <div class="text">
+                <ul>
+
+
+                    <li>Leg sjukgymnast 1986</li>
+                    <li>Leg psykoterapeut 2001</li>
+                    <li>Psykodynamisk inriktning steg 1 och 2</li>
+                    <li>KBT kognitiv beteendeterapi steg 1</li>
+                    <li>Grundl&auml;ggande utbildning i kroppsorienterad psykoterapi</li>
+                    <li>Depression och korttidsterapi 20 p</li>
+                    <li>Grundutbildning inom DBT</li>
+                    <li>Pågående utbildning till medicinsk yogainstruktör</li>
+                    <li>Jympaledare inom Friskis o Svettis (30 år+)</li>
+
+                </ul>
 
             </div>
         </div>
