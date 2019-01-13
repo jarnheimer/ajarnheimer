@@ -7,8 +7,9 @@
             <div class="text">Organisationsnummer  	 556673-0411</div>
           </div> <div class="columnFooter marginLeft">
             <div class="head2">Postadress</div>
-            <div class="text">Esplanaden 29<br>
-             392 34 Kalmar</div>
+            <div class="text">Strandgatan 13<br>
+             392 34 Kalmar<br>
+            (fr.o.m 1 mars 2019)</div>
           </div>
             <div class="columnFooter marginLeft">
             <div class="head2">Telefon</div>

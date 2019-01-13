@@ -12,16 +12,28 @@ $titel = "Ann-Sofie Jarnheimer - Kontakt";
 
                 <div class="head">Kontakt</div>
                 <div class="text">
-                    <p>Ann-Sofie Jarnheimer<br>
-                        Esplanaden 29<br>
-                        39234 Kalmar<br>
-                        <br>
-                        070-77 606 77<br>
+                    <p>Ann-Sofie Jarnheimer</p>
+
+                    <p>070-77 606 77</p>
+                    <p>
+                        <a href="mailto:a.jarnheimer@gmail.com">a.jarnheimer@gmail.com</a>
                     </p>
 
-                    <p><a href="mailto:a.jarnheimer@gmail.com">a.jarnheimer@gmail.com</a><br>
+                        <b>Adress t.o.m. 30 april 2019:</b><br>
+
+                        Esplanaden 29<br>
+                        392 34 Kalmar<br><br>
+
+
+                        <b>Adress fr.o.m. 1 mars 2019:</b><br>
+
+                        Strandgatan 13<br>
+                        392 34 Kalmar
                         <br>
+
                     </p>
+
+
                 </div>
 
         </div>
