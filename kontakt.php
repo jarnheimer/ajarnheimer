@@ -19,7 +19,7 @@ $titel = "Ann-Sofie Jarnheimer - Kontakt";
                         070-77 606 77<br>
                     </p>
 
-                    <p><a href="mailto:ann-sofie@jarnheimer.se">ann-sofie@jarnheimer.se</a><br>
+                    <p><a href="mailto:a.jarnheimer@gmail.com">a.jarnheimer@gmail.com</a><br>
                         <br>
                     </p>
                 </div>
