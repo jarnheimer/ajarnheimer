@@ -8,7 +8,7 @@
           </div> <div class="columnFooter marginLeft">
             <div class="head2">Postadress</div>
             <div class="text">Strandgatan 13<br>
-             392 34 Kalmar<br>
+                392 35 Kalmar<br>
             (fr.o.m 1 mars 2019)</div>
           </div>
             <div class="columnFooter marginLeft">

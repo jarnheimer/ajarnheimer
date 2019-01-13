@@ -19,7 +19,7 @@ $titel = "Ann-Sofie Jarnheimer - Kontakt";
                         <a href="mailto:a.jarnheimer@gmail.com">a.jarnheimer@gmail.com</a>
                     </p>
 
-                        <b>Adress t.o.m. 30 april 2019:</b><br>
+                        <b>Adress t.o.m. 28 feb 2019:</b><br>
 
                         Esplanaden 29<br>
                         392 34 Kalmar<br><br>
@@ -28,7 +28,7 @@ $titel = "Ann-Sofie Jarnheimer - Kontakt";
                         <b>Adress fr.o.m. 1 mars 2019:</b><br>
 
                         Strandgatan 13<br>
-                        392 34 Kalmar
+                        392 35 Kalmar
                         <br>
 
                     </p>
