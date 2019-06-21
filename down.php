@@ -3,7 +3,7 @@
           <br class="clear">
           <div class="line"></div>
             <div class="columnFooterBase marginLeft">
-            <div class="head2">Ann-Sofies Sjukgymnastik AB</div>
+            <div class="head2">Jarnheimer psykoterapi och fysioterapi AB</div>
             <div class="text">Organisationsnummer  	 556673-0411</div>
           </div> <div class="columnFooter marginLeft">
             <div class="head2">Postadress</div>
