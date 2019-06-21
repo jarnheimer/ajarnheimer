@@ -21,7 +21,7 @@ $titel = "Ann-Sofie Jarnheimer - Kompetens";
                     <li>Grundl&auml;ggande utbildning i kroppsorienterad psykoterapi</li>
                     <li>Depression och korttidsterapi 20 p</li>
                     <li>Grundutbildning inom DBT</li>
-                    <li>Pågående utbildning till medicinsk yogainstruktör</li>
+                    <li>Pågående utbildning till medicinsk yogainstruktör (steg 2)</li>
                     <li>Jympaledare inom Friskis o Svettis (30 år+)</li>
 
                 </ul>
