@@ -20,7 +20,7 @@ $titel = "Ann-Sofie Jarnheimer - Leg. Sjukgymnast, Leg. Psykoterapeut";
                 <p><b>Aktuellt</b></p>
                 <ul>
                     <li>Ny besöks- och postadress</li>
-                    <li>Stresshantering, Kollbergagården 30 - 31 mars 2019</li>
+                    <li>Stresshantering, Kollbergagården 12-13 oktober 2019</li>
                     <li><a href="http://www.lendasoasen.se/kurser/stresshantering-pa-kreta/">Stresshantering - på kreta,
                             19 – 26 september 2019</a></li>
                 </ul>
