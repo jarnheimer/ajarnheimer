@@ -5,8 +5,8 @@ $titel = "Ann-Sofie Jarnheimer - Kurser";
 ?>
 <?php include "top.php"; ?>
 
-    <div id="contentMargin"><img src="img/gfx/kurs.jpg" alt="Ann-Sofie Jarnheimer" width="450" height="300"
-                                 class="portrait">
+    <div id="contentMargin"><img src="img/gfx/kurser.jpg" alt="Ann-Sofie Jarnheimer" width="450"
+                                 class="portrait"  style="border: solid 5px #ffffff">
 
         <div class="columnRight">
             <div class="head">Kurser</div>

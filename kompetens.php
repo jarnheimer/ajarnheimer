@@ -5,8 +5,8 @@ $titel = "Ann-Sofie Jarnheimer - Kompetens";
 ?>
 <?php include "top.php"; ?>
 
-    <div id="contentMargin"><img src="img/gfx/Ann-Sofie_Jarnheimer+Alice.gif" alt="Ann-Sofie Jarnheimer" width="450"
-                                 height="319" class="portrait">
+    <div id="contentMargin"><img src="img/gfx/stol.jpg" alt="Ann-Sofie Jarnheimer" width="450"
+                                 class="portrait" style="border: solid 5px #ffffff">
 
         <div class="columnRight">
             <div class="head">Kompetens</div>
@@ -21,6 +21,7 @@ $titel = "Ann-Sofie Jarnheimer - Kompetens";
                     <li>Grundl&auml;ggande utbildning i kroppsorienterad psykoterapi</li>
                     <li>Depression och korttidsterapi 20 p</li>
                     <li>Grundutbildning inom DBT</li>
+                    <li>Medicinsk yogainstruktör steg 1</li>
                     <li>Pågående utbildning till medicinsk yogainstruktör (steg 2)</li>
                     <li>Jympaledare inom Friskis o Svettis (30 år+)</li>
 
