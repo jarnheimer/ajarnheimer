@@ -19,10 +19,8 @@ $titel = "Ann-Sofie Jarnheimer - Leg. Sjukgymnast, Leg. Psykoterapeut";
                     Jag f&ouml;rel&auml;ser och har konsultuppdrag &ouml;ver hela Sverige.</p>
                 <p><b>Aktuellt</b></p>
                 <ul>
-                    <li>Ny besöks- och postadress</li>
-                    <li>Stresshantering, Kollbergagården 12-13 oktober 2019</li>
-                    <li><a href="http://www.lendasoasen.se/kurser/stresshantering-pa-kreta/">Stresshantering - på kreta,
-                            19 – 26 september 2019</a></li>
+                    <li>Stresshantering med KBT & ACT (mer info kommer)</li>
+                    <li><a href="https://www.lendasoasen.se/kurser/stresshantering-pa-kreta/">Stresshantering - på Kreta, 30 sep - 6 okt 2021</a></li>
                 </ul>
             </div>
         </div>
