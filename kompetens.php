@@ -22,8 +22,8 @@ $titel = "Ann-Sofie Jarnheimer - Kompetens";
                     <li>Depression och korttidsterapi 20 p</li>
                     <li>Grundutbildning inom DBT</li>
                     <li>Medicinsk yogainstruktör steg 1</li>
-                    <li>Pågående utbildning till medicinsk yogainstruktör (steg 2)</li>
-                    <li>Jympaledare inom Friskis o Svettis (30 år+)</li>
+                    <li>Utbildning inom ACT 2-årig (pågående)</li>
+                    <li>Instruktör Friskis o Svettis</li>
 
                 </ul>
 
