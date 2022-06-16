@@ -15,8 +15,9 @@ $titel = "Ann-Sofie Jarnheimer - Kurser";
 
                 <p><b>Aktuellt</b></p>
                 <ul>
-                    <li>Stresshantering med KBT & ACT (mer info kommer)</li>
-                    <li><a href="https://www.lendasoasen.se/kurser/stresshantering-pa-kreta/">Stresshantering - på Kreta, 30 sep - 6 okt 2021</a></li>
+                    <li><a href="https://www.lendasoasen.se/kurser/stresshantering-pa-kreta/">Stresshantering - på Kreta, 22  - 29 sep 2022</a></li>
+                    <li><a href="https://www.kollberggarden.se/mindfullness-helg/">Tr&auml;na dig att m&aring; v&auml;l - Kollberggården, 17 - 18 sep 2022</a></li>
+                   
                 </ul>
 
 
