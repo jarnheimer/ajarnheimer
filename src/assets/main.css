@@ -1,0 +1,48 @@
+@import './base.css';
+
+body{
+  background: #E0E0D1;
+}
+
+/* Navigation Bar Styling */
+nav {
+  padding: 0.5rem 1rem 2rem 0; /* Padding around the nav */
+}
+
+nav a:first-child {
+  margin-left: 0;
+}
+{
+  margin-left: -1rem;
+}
+
+nav a {
+  color: #007bff; /* Bootstrap primary color for links */
+  text-decoration: none; /* No underline */
+  margin: 0 1rem 0 0;
+  padding: 0.25rem;
+  border-bottom: 3px solid transparent;
+}
+
+nav a:hover, nav a.active {
+  color: #000000; /* Darker shade of primary color on hover/focus */
+  border-color:#a43823;
+}
+
+nav a:hover::after, nav a:focus::after {
+  opacity: 1; /* Visible on hover/focus */
+}
+
+
+h1
+{
+  color:red;
+}
+
+.img-right
+{
+  float:right;
+  margin: 0 0 10px 20px;
+  border:0;
+  border-radius: 10px
+}
